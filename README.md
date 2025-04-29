@@ -1,4 +1,4 @@
-# Disease Prediction using Support Vector Machines
+# Stroke Prediction using Support Vector Machines
 
 ### Support Vector Machines: Theory and Kernels
 
